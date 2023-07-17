@@ -8,4 +8,4 @@ This artwork is made by [**tihyltew**](https://corteximplant.com/@tihyltew), and
 > - Attribution - you must credit the author appropriately
 > - Share Alike - you must distribute any modifications of the work under the same license
 > 
-> This is just the overview of the license, for more details read the [license document](LICENSE)
+> This is just the overview of the license, for more details read the [license document](LICENSE).

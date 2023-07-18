@@ -9,7 +9,7 @@ Colour                                               |  Black & White Ink
 The Black & White version is available as [a vector](cyberdon_ink_traced.svg) (traced from the bitmap).
 
 ## License
-This artwork is made by [**tihyltew**](https://corteximplant.com/@tihyltew), and licensed under [CC BY-SA 4.0](LICENSE).
+This artwork is made by [**tihyltew**](https://corteximplant.com/@tihyltew) and licensed under [CC BY-SA 4.0](LICENSE).
 
 > You are allowed to share, adapt, and use the artwork privately or commercially under these conditions:
 > - Attribution - you must credit the author appropriately

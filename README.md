@@ -3,7 +3,7 @@ A mastodon mascot for CORTEX IMPLANT with a cyberpunk twist.
 
 ![Main art of Cyberdon](cyberdon.png)
 
-## Patches & pins:
+## Patches & pins
 <details>
 <summary>Click to expand</summary><br>
 

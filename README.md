@@ -1,6 +1,29 @@
 # Cyberdon
 A mastodon mascot for CORTEX IMPLANT with a cyberpunk twist.
 
+![Main art of Cyberdon](cyberdon.png)
+
+## Patches & pins:
+<details>
+<summary>Click to expand</summary><br>
+
+Front:
+- Bubblegum Durstlöscher (corteximplant.com inside joke)
+- LGBTQA+ rainbow pin
+- CYBERWARE Asset – [Redbubble](https://www.redbubble.com/shop/ap/147546809)
+- Trans anarchy
+- Netrun Until It Breaks – [Redbubble](https://www.redbubble.com/shop/ap/147608592)
+
+Back:
+- *DIS*[**OBEY THE SYSTEM**](https://obeythesystem.com)
+- ***** *** – [Urban Dictionary](https://www.urbandictionary.com/define.php?term=*****%20***)
+- FCK AFD
+- No Planet B
+- No TERFs on our turf
+- Not my king
+
+</details>
+
 ## Turnaround
 Colour                                                         |  Black & White Ink
 :-------------------------------------------------------------:|:-------------------------------------------------------------:

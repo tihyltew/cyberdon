@@ -3,6 +3,8 @@ A mastodon mascot for CORTEX IMPLANT with a cyberpunk twist.
 
 ![Main art of Cyberdon](cyberdon.png)
 
+[Available without the signature](cyberdon_nosignature.png)
+
 ## Patches & pins
 <details>
 <summary>Click to expand</summary><br>
@@ -25,10 +27,10 @@ Back:
 </details>
 
 ## Turnaround
-Colour                                                         |  Black & White Ink
-:-------------------------------------------------------------:|:-------------------------------------------------------------:
-![Coloured Cyberdon turnaround](cyberdon_colour_noshadows.png) | ![Inked black and white Cyberdon turnaround](cyberdon_ink.png)
-[Available with shadows](cyberdon_colour.png)                  | [Available as a traced vector](cyberdon_ink_traced.svg)
+Colour                                                     |  Black & White Ink
+:---------------------------------------------------------:|:-------------------------------------------------------------:
+![Coloured Cyberdon turnaround](cyberdon_colour.png)       | ![Inked black and white Cyberdon turnaround](cyberdon_ink.png)
+[Available with no shadows](cyberdon_colour_noshadows.png) | [Available as a traced vector](cyberdon_ink_traced.svg)
 
 ## License
 This artwork is made by [**tihyltew**](https://corteximplant.com/@tihyltew) and licensed under [CC BY-SA 4.0](LICENSE).

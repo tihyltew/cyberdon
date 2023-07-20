@@ -11,7 +11,7 @@ A mastodon mascot for CORTEX IMPLANT with a cyberpunk twist.
 
 Front:
 - Bubblegum Durstlöscher (corteximplant.com inside joke)
-- LGBTQA+ rainbow pin
+- LGBTQIA+ rainbow pin
 - CYBERWARE Asset – [Redbubble](https://www.redbubble.com/shop/ap/147546809)
 - Trans anarchy
 - Netrun Until It Breaks – [Redbubble](https://www.redbubble.com/shop/ap/147608592)

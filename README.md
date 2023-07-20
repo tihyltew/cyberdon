@@ -29,8 +29,8 @@ Back:
 ## Turnaround
 Colour                                                     |  Black & White Ink
 :---------------------------------------------------------:|:-------------------------------------------------------------:
-![Coloured Cyberdon turnaround](cyberdon_colour.png)       | ![Inked black and white Cyberdon turnaround](cyberdon_ink.png)
-[Available with no shadows](cyberdon_colour_noshadows.png) | [Available as a traced vector](cyberdon_ink_traced.svg)
+![Coloured Cyberdon turnaround](turnaround/cyberdon_colour.png)       | ![Inked black and white Cyberdon turnaround](turnaround/cyberdon_ink.png)
+[Available with no shadows](turnaround/cyberdon_colour_noshadows.png) | [Available as a traced vector](turnaround/cyberdon_ink_traced.svg)
 
 ## License
 This artwork is made by [**tihyltew**](https://corteximplant.com/@tihyltew) and licensed under [CC BY-SA 4.0](LICENSE).

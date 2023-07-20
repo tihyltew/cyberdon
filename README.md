@@ -1,7 +1,7 @@
 # Cyberdon
 A mastodon mascot for CORTEX IMPLANT with a cyberpunk twist.
 
-![Main art of Cyberdon](cyberdon.png)
+<img src="cyberdon.png" width="40%" title="Main art of Cyberdon"></img>
 
 [Available without the signature](cyberdon_nosignature.png)
 
